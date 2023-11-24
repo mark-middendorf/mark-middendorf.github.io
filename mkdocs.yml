@@ -7,4 +7,5 @@ theme:
 nav:
   - Home: 'index.md'
   - 'HP Portfolio':
+    - 'Overview': '/portfolio-hp/_overview.md'
     - 'FRED and Data Mining': '/portfolio-hp/fred-data-mining.md'
